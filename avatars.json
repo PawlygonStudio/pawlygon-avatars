@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-04-06",
+  "avatars": [
+    {
+      "id": "avtr_ac29d48b-c9ae-40af-bdf2-0d405fcbd492",
+      "name": "Avatar 1",
+      "author": "Unknown",
+      "thumbnail": "https://<user>.github.io/<repo>/thumbs/avatar1.png",
+      "tags": "pc"
+    },
+    {
+      "id": "avtr_5f6d1f49-d713-45d4-b76a-c2466f958605",
+      "name": "Avatar 2",
+      "author": "Unknown",
+      "thumbnail": "https://<user>.github.io/<repo>/thumbs/avatar2.png",
+      "tags": "pc"
+    },
+    {
+      "id": "avtr_2bbe9313-d8b8-4c1d-a5a6-c2485af8cf98",
+      "name": "Avatar 3",
+      "author": "Unknown",
+      "thumbnail": "https://<user>.github.io/<repo>/thumbs/avatar3.png",
+      "tags": "pc"
+    }
+  ]
+}
